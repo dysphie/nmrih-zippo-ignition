@@ -13,11 +13,11 @@ ConVar cvar_ignite_players, cvar_ignite_zombies, cvar_ignite_props;
 
 public Plugin myinfo =
 {
-	name = "[NMRiH] Pyromania",
+	name = "[NMRiH] Zippo Ignition",
 	author = "Dysphie",
 	description = "Lets players set entities on fire with the lighter",
-	version = "1.0",
-	url = "http://www.sourcemod.net/"
+	version = "1.0.1",
+	url = "https://forums.alliedmods.net/showthread.php?t=319626"
 };
 
 public void OnPluginStart()
